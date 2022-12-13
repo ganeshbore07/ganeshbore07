@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshbore07
+- 👋 Hi, I’m Ganesh Bore
 - 👀 I’m interested in Data and coding 
 - 🌱 I’m currently learning core Python, Data Science, Artificial Intilligence & Machine Learning.
 - 💞️ I’m looking for an valuable opportunity to work as Python Developer/Data Scientist/Data Analyst/Business Analyst 
